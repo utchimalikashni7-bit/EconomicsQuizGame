@@ -1,0 +1,24 @@
+# Android project .gitignore
+*.iml
+.gradle
+/local.properties
+/.idea
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/.name
+/.idea/compiler.xml
+/.idea/misc.xml
+/.idea/encodings.xml
+/.idea/modules
+/.idea/*.iml
+*.hprof
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab

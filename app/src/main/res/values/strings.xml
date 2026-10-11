@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Economics Quiz</string>
+    <string name="student_hint">Student Name</string>
+    <string name="timer_label">Time Left</string>
+    <string name="skip_label">Skip</string>
+    <string name="next_label">Next</string>
+    <string name="result_title">Test Result</string>
+    <string name="retry_label">Retry Test</string>
+</resources>
